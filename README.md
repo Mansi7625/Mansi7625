@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Mrudula
 
-<!--
-**Mansi7625/Mansi7625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Student Developer | Learning Python, DSA & Software Development
 
-Here are some ideas to get you started:
+## 💻 Programming Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* C / C++
+* SQL
+* HTML & CSS
+
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Python Programming
+* Git & GitHub
+* Software Development
+
+## 📫 Connect With Me
+
+* GitHub: Mansi7625
+
+
