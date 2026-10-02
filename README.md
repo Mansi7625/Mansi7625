@@ -4,14 +4,14 @@
 
 I like understanding how things work, writing code, and turning what I learn into small projects.
 
-### A little about me
+### 🌱 A Little About Me
 
-🎓 Computer Engineering student.
-🐍 Exploring Python through practical coding.
-🧩 Interested in Data Structures & Algorithms.
-💡 Curious about new technologies and ideas.
-🏆 Taking part in hackathons and collaborative projects.
-🤝 Learning through teamwork, experimentation, and practice.
+* 🎓 Computer Engineering student
+* 🐍 Exploring Python through practical coding
+* 🧩 Interested in Data Structures & Algorithms
+* 💡 Curious about new technologies and ideas
+* 🏆 Taking part in hackathons and collaborative projects
+* 🤝 Learning through teamwork, experimentation, and practice
 
 ---
 
@@ -28,11 +28,11 @@ I like understanding how things work, writing code, and turning what I learn int
 
 ## 📌 What You'll Find Here
 
-Python Programs
-DSA Practice
-College Projects
-Hackathon Work
-Experiments & Learning
+* 🐍 Python Programs
+* 🧩 DSA Practice
+* 🎓 College Projects
+* 🏆 Hackathon Work
+* 🔬 Experiments & Learning
 
 ---
 
