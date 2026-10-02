@@ -6,12 +6,12 @@ I like understanding how things work, writing code, and turning what I learn int
 
 ### A little about me
 
-🎓 Computer Engineering student
-🐍 Exploring Python through practical coding
-🧩 Interested in Data Structures & Algorithms
-💡 Curious about new technologies and ideas
-🏆 Taking part in hackathons and collaborative projects
-🤝 Learning through teamwork, experimentation, and practice
+🎓 Computer Engineering student.
+🐍 Exploring Python through practical coding.
+🧩 Interested in Data Structures & Algorithms.
+💡 Curious about new technologies and ideas.
+🏆 Taking part in hackathons and collaborative projects.
+🤝 Learning through teamwork, experimentation, and practice.
 
 ---
 
