@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Mrudula
 
-**Computer Engineering Student | Python Learner | Problem Solver**
+**Computer Engineering Student | Learning Python, DSA & Software Development**
 
 I like understanding how things work, writing code, and turning what I learn into small projects.
 
